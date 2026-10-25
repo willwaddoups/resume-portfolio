@@ -6,8 +6,8 @@ Mechanical Engineering student at Brigham Young University.
 
 ## What's in This Repo
 
-- **[Resume](resume.pdf)**: my education, research experience, and skills.
-- **[Design Portfolio](portfolio.pdf)**: a collection of my SolidWorks projects, with renders, drawings, and a short write-up of each design.
+- **[Resume](williamwaddoups_resume_EN.pdf)**: my education, research experience, and skills.
+- **[Design Portfolio](design%20portfolio%20%28updated%29.pdf)**: a collection of my SolidWorks projects, with renders, drawings, and a short write-up of each design.
 
 ## Contact
 
